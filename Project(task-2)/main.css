@@ -1,0 +1,281 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header
+{
+	
+	background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('images/3.jpeg') no-repeat fixed center center ;
+	background-size: cover;
+	height: 100vh;
+    
+}
+.link1
+{
+	position: absolute;
+	margin-left: 35px;
+	margin-top: 30px;
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	
+	
+}
+
+.link2
+{
+	position: absolute;
+	margin-left: 650px;
+	margin-top: 30px;
+	font-size: 25px;
+
+
+
+}
+.link3
+{
+	position: absolute;
+	color: white;
+	left: 13%;
+	top: 55%;
+	font-size: 35px;
+	
+}
+.link4,.link5
+{
+	text-decoration: none;
+	color: white;
+	border:3px solid #FF7F50;
+	border-radius: 25px;
+	padding: 8px 8px;
+	font-size: 25px;
+}
+.link4,.link5:hover
+{
+	background-color: #FF7F50;
+}
+.link5
+{
+	padding: 10px 25px;
+}
+.a0,.a1,.a2,.a3
+{
+	text-decoration: none;
+	color: white;
+	border-bottom: 2px solid transparent;
+}
+a:hover
+{
+	border-bottom: 3px solid #FF7F50;
+}
+h2
+{
+	text-align: center;
+	color: black;
+	font-size: 35px;
+	text-decoration: underline;
+	text-decoration-color: #FF7F50;
+}
+.online,.online1,.online2
+{
+	width: 410px;
+	height: 350px;
+	background-color: white;
+	border-radius: 7px;
+}
+.flip,.ude,.insta
+{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	display: inline-block;
+	margin-left: 60px;
+
+
+}
+.kart,.education,.social
+{
+	background-color: #FF7F50;
+	text-decoration: none;
+	color: white;
+	border-radius: 15px 15px;
+	font-size: 25px;
+	margin:15px 25px;
+	padding: 10px 15px;
+	position: relative;
+	border:1px solid blue;
+
+	
+}
+/*.online
+{
+	box-sizing: border-box;
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+	
+}
+/*.images:after
+{
+	content: "";
+	clear: both;
+	display: table;
+}*/
+.online1
+{
+
+	position: absolute;
+	left: 480px;
+	top: 765px;
+	background-color: white;
+}
+.online2
+{
+	position: absolute;
+	top: 765px;
+	right: 1px;
+	background-color: white;
+	
+}
+.afterproject
+{
+	background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('images/4.jpeg') no-repeat fixed center center ;
+	background-size: cover;
+	height: 50vh;
+    
+}
+.tech1,.tech2
+{
+	width: 450px;
+	height: 300px;
+	background-color: white;
+}
+.web,.android
+{
+	width: 250px;
+	height: 250px;
+	position: relative;
+	display: inline-block;
+	border-radius: 7px;
+	margin-left: 60px;
+}
+.tech2
+{
+	position: absolute;
+	top: 1553px;
+	left: 480px;
+	background-color: white;
+}
+.after-about-us
+{
+	background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('images/1.jpeg') no-repeat fixed center center ;
+	background-size: cover;
+	height: 50vh;
+    
+}
+/*.pname
+{
+	width:100%;
+	padding: 12px 20px;
+	margin:8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}*/
+/*.form-control
+{
+	width: 85%;
+	border-radius: 4px;
+	padding: 12px 18px;
+	font-size: 15px;
+	margin-left: 20px;
+
+
+}*/
+.request
+{
+	width: 85%;
+	border-radius: 4px;
+	padding: 12px 18px;
+	font-size: 15px;
+	margin-left: 20px;
+}
+/*.form-group
+{
+	width: 100%;
+	border-radius: 4px;
+	padding: 12px 18px;
+	font-size: 15px;
+	margin-left: 20px;
+	background-color: white;
+
+}*/
+.form-group
+{
+	font-size: 20px;
+	margin-left: 25px;
+	position: relative;
+	top:60px;
+}
+.form-control
+{
+	font-size: 20px;
+	padding: 5px;
+	width: 95%;
+}
+.after-project-request
+{
+	height: 50vh;
+	background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('images/2.jpeg') no-repeat fixed center center ;
+	background-size: cover;
+	
+}
+.foot1
+{
+	background-color: #FF7F50;
+	box-sizing: border-box;
+	border:1px solid transparent;
+	width: 100%;
+	padding: 10px 10px;
+	text-align: center;
+}
+.foot2
+{
+	background-color: white;
+	height: 40vh;
+}
+.foot3
+{
+	margin-left: 60px;
+	padding: 15px;
+}
+.foot4
+{
+	margin-top: -190px;
+	margin-left: 500px;
+	padding: 15px;
+}
+.foot5
+{
+	margin-left: 450px;
+}
+.primary
+{
+	background-color:#FF7F50;
+	padding: 10px 15px;
+	border-radius: 10px;
+	border:1px solid blue; 
+}
+.online:hover
+{
+	background-color: #33c7ff;
+}
+.online1:hover
+{
+	background-color: #33c7ff;
+}
+.online2:hover
+{
+	background-color: #33c7ff;
+}
